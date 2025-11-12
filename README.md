@@ -1,4 +1,4 @@
-# ![](https://github.com/apitafilms-boop/Emberly/blob/main/Emberly_20251112_071531_0000~2.png)
+i# ![](https://github.com/apitafilms-boop/Emberly/blob/main/Emberly_20251112_071531_0000~2.png)
 
 📝 Emberly is a feature-rich character generator built in python. 📝
 
@@ -6,7 +6,7 @@
 * 📝 A name generator. 📝
 * 👵 A relation generator. 👵
 * 💯 A body hair percentage generator which will affect the hair generation. 💯
-* 💲 Job Generator 💲
+* 💲 Detailed Job Generator 💲
 
 ### Goals for the future
 * 🖍️ Consistent Hair Colors. 🖍️
@@ -15,6 +15,7 @@
 * 👕 A highly-detailed clothes and accessories generator. 👕
 * ⚔️ A weapons generator. ⚔️
 * 💲 Money or income generator. 💲
+
 
 ### "How do I help?"
 🙏 You can help the development of Emberly by sending in a ticket with your changes. 🙏
