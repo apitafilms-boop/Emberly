@@ -1,4 +1,5 @@
-# 🔥 Emberly 🔥
+# ![](https://github.com/apitafilms-boop/Emberly/blob/main/Emberly_20251112_071531_0000~2.png)
+
 📝 Emberly is a feature-rich character generator built in python. 📝
 
 ## What is included by default
