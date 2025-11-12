@@ -6,7 +6,7 @@ i# ![](https://github.com/apitafilms-boop/Emberly/blob/main/Emberly_20251112_071
 * 📝 A name generator. 📝
 * 👵 A relation generator. 👵
 * 💯 A body hair percentage generator which will affect the hair generation. 💯
-* 💲 Detailed Job Generator 💲
+* 💲 Detailed Job Generator. 💲
 
 ### Goals for the future
 * 🖍️ Consistent Hair Colors. 🖍️
@@ -15,8 +15,8 @@ i# ![](https://github.com/apitafilms-boop/Emberly/blob/main/Emberly_20251112_071
 * 👕 A highly-detailed clothes and accessories generator. 👕
 * ⚔️ A weapons generator. ⚔️
 * 💲 Money or income generator. 💲
-* Address Generator
-* Pictures
+* Address Generator.
+* 🖼️ Pictures for generations. 🖼️
 
 
 ### "How do I help?"
