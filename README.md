@@ -15,7 +15,7 @@ i# ![](https://github.com/apitafilms-boop/Emberly/blob/main/Emberly_20251112_071
 * 👕 A highly-detailed clothes and accessories generator. 👕
 * ⚔️ A weapons generator. ⚔️
 * 💲 Money or income generator. 💲
-* Address Generator.
+* 🛖 Address Generator. 🛖
 * 🖼️ Pictures for generations. 🖼️
 
 
