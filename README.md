@@ -5,6 +5,7 @@
 * 📝 A name generator. 📝
 * 👵 A relation generator. 👵
 * 💯 A body hair percentage generator which will affect the hair generation. 💯
+* 💲 Job Generator 💲
 
 ### Goals for the future
 * 🖍️ Consistent Hair Colors. 🖍️
@@ -12,7 +13,7 @@
 * 📏 A Height Generator. 📏
 * 👕 A highly-detailed clothes and accessories generator. 👕
 * ⚔️ A weapons generator. ⚔️
-* 💲 Money, job, or income generator. 💲
+* 💲 Money or income generator. 💲
 
 ### "How do I help?"
 🙏 You can help the development of Emberly by sending in a ticket with your changes. 🙏
