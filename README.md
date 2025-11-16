@@ -4,6 +4,8 @@
 
 ## What is included by default
 * 📝 A name generator. 📝
+* 🥳 A Gender generator. 🥳
+* 👤 A pronoun generator. 👤
 * 👵 A relation generator. 👵
 * 💯 A body hair percentage generator which will affect the hair generation. 💯
 * 💲 Detailed Job Generator. 💲
