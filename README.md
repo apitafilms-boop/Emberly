@@ -8,7 +8,9 @@
 * 👤 A pronoun generator. 👤
 * 👵 A relation generator. 👵
 * 💯 A body hair percentage generator which will affect the hair generation. 💯
-* 💲 Detailed Job Generator. 💲
+* 💲 Detailed Job Generator. 💲.
+  * Sub-Categories (WIP)
+  * Yearly salary
 
 ### Goals for the future
 * 🖍️ Consistent Hair Colors. 🖍️
