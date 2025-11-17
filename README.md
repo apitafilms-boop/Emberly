@@ -13,12 +13,10 @@
   * Yearly salary
 
 ### Goals for the future
-* 🖍️ Consistent Hair Colors. 🖍️
 * 🪮 More Hairstyles. 🪮
 * 📏 A Height Generator. 📏
 * 👕 A highly-detailed clothes and accessories generator. 👕
-* ⚔️ A weapons generator. ⚔️
-* 💲 Money or income generator. 💲
+* ⚔️ A weapons generator. ⚔
 * 🛖 Address Generator. 🛖
 * 🖼️ Pictures for generations. 🖼️
 
