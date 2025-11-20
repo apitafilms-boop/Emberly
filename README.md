@@ -1,4 +1,4 @@
-![](https://github.com/apitafilms-boop/Emberly/blob/main/Emberly_20251119_155558_0000.png)
+<img width="500" height="500" alt="Emberly_20251119_155558_0000" src="https://github.com/user-attachments/assets/e6edbf0a-9cee-43ce-873f-8279a65d1117" />
 
 Emberly is a feature-rich character generator built in python.
 
