@@ -3,7 +3,7 @@ import time
 import random
 
 
-os.system("cls")
+os.system("clear")
 time.sleep(1)
 
 # FAMILY TERM GENERATOR
