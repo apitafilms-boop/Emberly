@@ -30,5 +30,7 @@ You can help the development of Emberly by sending in a ticket with your changes
 
 ### Usage
 ```git clone https://github.com/apitafilms-boop/Emberly```
+
 ```cd Emberly```
+
 ```python Emberly.py```
